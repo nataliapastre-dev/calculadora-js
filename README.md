@@ -7,13 +7,17 @@
 
 ---
 
-## 🔗 Acesse o projeto  
-👉 **Demo online:**  
-https://nataliapastre-dev.github.io/calculadora-js/
+<h2 align="center">🔗 Acesse o projeto</h2>
+
+<p align="center">
+👉 <a href="https://nataliapastre-dev.github.io/calculadora-js/" target="_blank">
+<b>Demo online</b>
+</a>
+</p>
 
 ---
 
-## 📸 Preview
+<h2 align="center">📸 Preview</h2>
 
 <p align="center">
   <img src="https://i.postimg.cc/Gp9mx5qS/Chat-GPT-Image-15-de-nov-de-2025-14-19-02.png" 
@@ -23,21 +27,38 @@ https://nataliapastre-dev.github.io/calculadora-js/
 
 ---
 
-## 🚀 Tecnologias utilizadas
+<h2 align="center">🚀 Tecnologias utilizadas</h2>
 
-- **HTML5**
-- **CSS3 (dark + crimson theme)**
-- **JavaScript ES6+**
+<p align="center">
+  • <b>HTML5</b><br>
+  • <b>CSS3 (dark + crimson theme)</b><br>
+  • <b>JavaScript ES6+</b>
+</p>
 
 ---
 
-## ✨ Funcionalidades
+<h2 align="center">✨ Funcionalidades</h2>
 
-✔ Layout com design moderno  
-✔ Tema dark com brilho crimson  
-✔ Botão de limpar (C)  
-✔ Botão apagar (←)  
-✔ Operações básicas ( + − × ÷ )  
-✔ Botão "=" destacado com cor especial  
-✔ Validação de operadores duplicados  
-✔ Interface
+<p align="center">
+  ✔ Layout com design moderno<br>
+  ✔ Tema dark com brilho crimson<br>
+  ✔ Botão de limpar (C)<br>
+  ✔ Botão apagar (←)<br>
+  ✔ Operações básicas ( + − × ÷ )<br>
+  ✔ Botão "=" destacado com cor especial<br>
+  ✔ Validação de operadores duplicados<br>
+  ✔ Interface responsiva para celular<br>
+  ✔ Animações suaves nos botões
+</p>
+
+---
+
+<h2 align="center">📦 Como executar o projeto</h2>
+
+<p align="center">
+  1️⃣ Clone o repositório:<br>
+</p>
+
+```bash
+git clone https://github.com/nataliapastre-dev/calculadora-js
+``
